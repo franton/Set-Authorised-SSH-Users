@@ -2,7 +2,7 @@
  
 # Script to enable specified users of SSH on OS X systems
 
-# Implemented : r.purves@arts.ac.uk
+# Implemented : contact@richard-purves.com
 
 # Version 1.0 : 02-08-2013 - Initial Version
 # Version 1.1 : 06-08-2013 - Added *redacted* group
